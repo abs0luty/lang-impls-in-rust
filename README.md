@@ -9,7 +9,7 @@ _The difference is that here stars don't matter, every project here has an equal
 Then it can be included in this list!
 ## How to add my langauge?
 - Add information about your project to `list.json` file.
-- Run `cargo run` to generate new README.md.
+- Run `python generate_readme.py` to generate new README.md.
 - Make a pull request and just wait until I add submit it.
 ## The List
 | Project | Description |
