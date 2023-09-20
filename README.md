@@ -122,7 +122,6 @@ Then it can be included in this list!
 | [rodaine/rlox](https://github.com/rodaine/rlox) | Lox Interpreter/REPL written in Rust |
 | [rox](https://github.com/brightly-salty/rox) | A Rust port of Crafting Interpreters |
 | [roxt](https://github.com/trevarj/roxt) | A Lox interpreter written in Rust |
-| [roxt](https://github.com/trevarj/roxt) | A Lox interpreter written in Rust |
 | [rtforth](https://github.com/chengchangwu/rtforth) | Forth implemented in Rust for realtime application |
 | [rulox](https://github.com/mariosangiorgio/rulox) | Implementation in Rust of lox, the language described in Crafting Interpreters |
 | [rusch](https://github.com/twolodzko/rusch) | Minimal Scheme interpreter implemented in Rust |
