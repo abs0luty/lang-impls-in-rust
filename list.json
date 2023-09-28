@@ -390,6 +390,11 @@
     "description": "An embedded scheme interpreter in Rust"
   },
   {
+    "name": "Shard",
+    "url": "https://github.com/anthonysSlab/shard",
+    "description": "The Shard programming language"
+  },
+  {
     "name": "ucg",
     "url": "https://github.com/zaphar/ucg",
     "description": "A Universal Configuration Grammar"

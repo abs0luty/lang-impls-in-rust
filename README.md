@@ -9,7 +9,7 @@ _The difference is that here stars don't matter, every project here has an equal
 Then it can be included in this list!
 ## How to add my langauge?
 - Add information about your project to `list.json` file.
-- Run `python generate_readme.py` to generate new README.md.
+- Run `cargo run` to generate new README.md.
 - Make a pull request and just wait until I add submit it.
 ## The List
 | Project | Description |
@@ -82,6 +82,7 @@ Then it can be included in this list!
 | [SPWN](https://github.com/Spu7Nix/SPWN-language) | A language for Geometry Dash triggers |
 | [Schwift](https://github.com/natemara/schwift) | An actual programming language for some reason |
 | [Scryer Prolog](https://github.com/mthom/scryer-prolog) | A modern Prolog implementation written mostly in Rust. |
+| [Shard](https://github.com/anthonysSlab/shard) | The Shard programming language |
 | [Sligh](https://github.com/amw-zero/sligh) | A language for model transformation |
 | [Space](https://github.com/mrozycki/space-lang) | What if identifiers could be anything? Langjam submission |
 | [Sphinx](https://github.com/mwerezak/sphinx-lang) | An interpreter for a simple dynamic language written in Rust |
