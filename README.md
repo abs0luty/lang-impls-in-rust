@@ -1,4 +1,4 @@
-#  Languages Written in Rust
+#  Language implementations Written in Rust
 This is a (probably incomplete) list of 119 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alileybrinker/langs-in-rust.
@@ -9,7 +9,7 @@ _The difference is that here stars don't matter, every project here has an equal
 Then it can be included in this list!
 ## How to add my langauge?
 - Add information about your project to `list.json` file.
-- Run `cargo run` to generate new README.md.
+- Run `python generate_readme.py` to generate new README.md.
 - Make a pull request and just wait until I add submit it.
 ## The List
 | Project | Description |
