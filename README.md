@@ -1,5 +1,5 @@
 #  Language implementations Written in Rust
-This is a (probably incomplete) list of 120 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 123 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alileybrinker/langs-in-rust.
 _The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._
@@ -108,6 +108,8 @@ Then it can be included in this list!
 | [cat-lox](https://github.com/AaronStGeorge/cat-lox) | A tree-walk lox interpreter written in Rust. |
 | [cloxrs](https://github.com/anellie/cloxrs) | Lox implementation written in Rust |
 | [crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) | Crafting Interpreters in Rust |
+| [darklua](https://github.com/seaofvoices/darklua) | Transform Lua 5.1 and Roblox Lua scripts using rules. |
+| [diatom](https://github.com/diatom-lang/diatom) | A dynamic typed scripting language for embedded use in applications. This project is yet another attempt of being a "better" lua. |
 | [frawk](https://github.com/ezrosent/frawk) | an efficient awk-like language |
 | [goscript](https://github.com/oxfeeefeee/goscript) | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
 | [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) | Experimental JS parser-generator project. |
@@ -132,5 +134,6 @@ Then it can be included in this list!
 | [ssp16asm](https://github.com/jdesiloniz/svpdev) | A collection of development tools targetting SEGA's SVP chip found in the Mega Drive/Genesis version of Virtua Racing. |
 | [swc](https://github.com/swc-project/swc) | Rust-based platform for the Web |
 | [tox](https://github.com/Lapz/tox) | Tox is a statically typed version programming language that is written in rust. |
+| [typst](https://github.com/typst/typst) | A new markup-based typesetting system that is powerful and easy to learn. |
 | [ucg](https://github.com/zaphar/ucg) | A Universal Configuration Grammar |
 | [yarli](https://github.com/silmeth/yarli) | Yet Another Rusty Lox Interpreter |

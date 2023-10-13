@@ -1,5 +1,20 @@
 [
   {
+    "name": "typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "url": "https://github.com/typst/typst"
+  },
+  {
+    "name": "diatom",
+    "description": "A dynamic typed scripting language for embedded use in applications. This project is yet another attempt of being a \"better\" lua.",
+    "url": "https://github.com/diatom-lang/diatom"
+  },
+  {
+    "name": "darklua",
+    "description": "Transform Lua 5.1 and Roblox Lua scripts using rules.",
+    "url": "https://github.com/seaofvoices/darklua"
+  },
+  {
     "name": "Luno",
     "description": "Toy language inspired by Lua and a few other languages",
     "url": "https://github.com/megabytesofrem/luno"
