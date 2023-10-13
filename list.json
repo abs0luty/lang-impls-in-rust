@@ -1,5 +1,10 @@
 [
   {
+    "name": "Uiua",
+    "description": "Stack-based array programming language.",
+    "url": "https://github.com/uiua-lang/uiua"
+  },
+  {
     "name": "Stellar",
     "description": "An open source WIP programming language for web development with expressive type system that makes it easy to build reliable and efficient software.",
     "url": "https://github.com/quantumatic/stellar"

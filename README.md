@@ -1,5 +1,5 @@
 #  Languages Written in Rust
-This is a (probably incomplete) list of 118 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 119 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alileybrinker/langs-in-rust.
 _The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._
@@ -97,6 +97,7 @@ Then it can be included in this list!
 | [Tethys](https://github.com/ThePuzzlemaker/tethys) | A toy functional programming language with a System F-based core calculus |
 | [The Force](https://github.com/mirdaki/theforce) | A Star Wars themed programming language |
 | [Tokay](https://github.com/tokay-lang/tokay) | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
+| [Uiua](https://github.com/uiua-lang/uiua) | Stack-based array programming language. |
 | [Veryl](https://github.com/dalance/veryl) | Veryl: A Modern Hardware Description Language |
 | [Voile](https://github.com/owo-lang/voile-rs) | Dependently-typed row-polymorphic programming language, evolved from minitt-rs |
 | [Wain](https://github.com/rhysd/wain) | WebAssembly implementation from scratch in Safe Rust with zero dependencies |
