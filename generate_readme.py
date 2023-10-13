@@ -16,7 +16,7 @@ with open("list.json") as json_file:
 with open("README.md", "w") as f:
   f.write("#  Language implementations Written in Rust\n")
   f.write("This is a (probably incomplete) list of %d languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.\n\n" % len(projects))
-  f.write("Inspired by: https://github.com/alileybrinker/langs-in-rust.\n")
+  f.write("Inspired by: https://github.com/alilleybrinker/langs-in-rust.\n")
   f.write("_The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._\n")
   f.write("## What Can Be Included?\n")
   f.write("- Is it a language?\n")
