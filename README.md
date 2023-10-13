@@ -1,5 +1,5 @@
 #  Language implementations Written in Rust
-This is a (probably incomplete) list of 119 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 120 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alileybrinker/langs-in-rust.
 _The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._
@@ -56,6 +56,7 @@ Then it can be included in this list!
 | [Laythe](https://github.com/Laythe-lang/Laythe) | A gradually typed language originally based on the crafting interpreters series  |
 | [Leo](https://github.com/AleoHQ/leo) | The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
 | [Lisp.rs](https://github.com/jsdf/lisp.rs) | Scheme Interpreter in Rust |
+| [Luno](https://github.com/megabytesofrem/luno) | Toy language inspired by Lua and a few other languages |
 | [Lurk](https://github.com/lurk-lang/lurk-rs) |  |
 | [Melody](https://github.com/yoav-lavi/melody) | Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable |
 | [Minitt](https://github.com/owo-lang/minitt-rs) | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust |

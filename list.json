@@ -1,5 +1,10 @@
 [
   {
+    "name": "Luno",
+    "description": "Toy language inspired by Lua and a few other languages",
+    "url": "https://github.com/megabytesofrem/luno"
+  },
+  {
     "name": "Uiua",
     "description": "Stack-based array programming language.",
     "url": "https://github.com/uiua-lang/uiua"
