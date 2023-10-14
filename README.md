@@ -1,5 +1,5 @@
 #  Language implementations Written in Rust
-This is a (probably incomplete) list of 123 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 124 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 _The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._
@@ -114,6 +114,7 @@ Then it can be included in this list!
 | [goscript](https://github.com/oxfeeefeee/goscript) | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
 | [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) | Experimental JS parser-generator project. |
 | [justinmayhew/lox](https://github.com/justinmayhew/lox) | A Rust implementation of Lox from Crafting Interpreters |
+| [lamb](https://github.com/Carnagion/lamb) | Pure untyped lambda calculus in safe Rust. |
 | [lax](https://github.com/alisww/lax) | a lox interpreter |
 | [lox-rs](https://github.com/jeschkies/lox-rs) | A Lox Interpreter in Rust |
 | [loxidation](https://github.com/LevitatingBusinessMan/Loxidation) | Lox bytecode compiler and VM in Rust |

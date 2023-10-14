@@ -1,5 +1,10 @@
 [
   {
+    "name": "lamb",
+    "description": "Pure untyped lambda calculus in safe Rust.",
+    "url": "https://github.com/Carnagion/lamb"
+  },
+  {
     "name": "typst",
     "description": "A new markup-based typesetting system that is powerful and easy to learn.",
     "url": "https://github.com/typst/typst"
