@@ -1,5 +1,5 @@
 #  Language implementations Written in Rust
-This is a (probably incomplete) list of 124 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 125 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 _The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._
@@ -120,6 +120,7 @@ Then it can be included in this list!
 | [loxidation](https://github.com/LevitatingBusinessMan/Loxidation) | Lox bytecode compiler and VM in Rust |
 | [loxr](https://github.com/HarveyHunt/loxr) | A Rust interpreter for the Lox language |
 | [loxrs](https://github.com/toyboot4e/loxrs) | [old] Crafting Interpreters in Rust (Part II: A tree-walk interpreter) |
+| [mindus](https://github.com/bend-n/mindus) | Library for working with Mindustry formats. |
 | [minipyth](https://github.com/isaacg1/minipyth) | A minimalist programming language |
 | [nt591/lox-rust](https://github.com/nt591/lox-rust) | A Rust implementation of the Crafting Interpreters bytecode VM |
 | [radogost/rlox](https://github.com/radogost/rlox) | An implementation of lox from the great book http://craftinginterpreters.com implemented in Rust |

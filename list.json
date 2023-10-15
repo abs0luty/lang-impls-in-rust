@@ -1,5 +1,10 @@
 [
   {
+    "name": "mindus",
+    "description": "Library for working with Mindustry formats.",
+    "url": "https://github.com/bend-n/mindus"
+  },
+  {
     "name": "lamb",
     "description": "Pure untyped lambda calculus in safe Rust.",
     "url": "https://github.com/Carnagion/lamb"
