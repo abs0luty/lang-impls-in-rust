@@ -1,5 +1,5 @@
 #  Language implementations Written in Rust
-This is a (probably incomplete) list of 125 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 126 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 _The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._
@@ -112,6 +112,7 @@ Then it can be included in this list!
 | [diatom](https://github.com/diatom-lang/diatom) | A dynamic typed scripting language for embedded use in applications. This project is yet another attempt of being a "better" lua. |
 | [frawk](https://github.com/ezrosent/frawk) | an efficient awk-like language |
 | [goscript](https://github.com/oxfeeefeee/goscript) | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
+| [gremlin-rs](https://github.com/wolf4ood/gremlin-rs) | DSL for Tinkerpop graph database |
 | [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) | Experimental JS parser-generator project. |
 | [justinmayhew/lox](https://github.com/justinmayhew/lox) | A Rust implementation of Lox from Crafting Interpreters |
 | [lamb](https://github.com/Carnagion/lamb) | Pure untyped lambda calculus in safe Rust. |

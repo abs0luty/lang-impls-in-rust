@@ -1,5 +1,10 @@
 [
   {
+    "name": "gremlin-rs",
+    "description": "DSL for Tinkerpop graph database",
+    "url": "https://github.com/wolf4ood/gremlin-rs"
+  },
+  {
     "name": "mindus",
     "description": "Library for working with Mindustry formats.",
     "url": "https://github.com/bend-n/mindus"
