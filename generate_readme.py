@@ -3,34 +3,43 @@ import json
 projects = []
 
 with open("list.json") as json_file:
-  data = json.load(json_file)
+    projects = json.load(json_file)
 
-  for project in data:
-    projects.append({
-      "name": project["name"],
-      "url": project["url"],
-      "description": project["description"],
-    })
+readme_template = """
+# Language implementations Written in Rust
+This is a (probably incomplete) list of %d languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
-with open("README.md", "w") as f:
-  f.write("#  Language implementations Written in Rust\n")
-  f.write("This is a (probably incomplete) list of %d languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.\n\n" % len(projects))
-  f.write("Inspired by: https://github.com/alilleybrinker/langs-in-rust.\n")
-  f.write("_The difference is that here stars don't matter, every project here has an equal weight + this repository is updated very often._\n")
-  f.write("## What Can Be Included?\n")
-  f.write("- Is it a language?\n")
-  f.write("- Is it written in Rust?\n")
-  f.write("Then it can be included in this list!\n")
-  f.write("## How to add my langauge?\n")
-  f.write("- Add information about your project to `list.json` file.\n")
-  f.write("- Run `python generate_readme.py` to generate new README.md.\n")
-  f.write("- Make a pull request and just wait until I add submit it.\n")
-  f.write("## The List\n")
-  f.write("| Project | Description |\n")
-  f.write("| --- | --- |\n")
+Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 
-  print(projects)
-  projects.sort(key=lambda x: x["name"])
+## What Can Be Included?
+- Is it a language?
+- Is it written in Rust?
+Then it can be included in this list!
 
-  for project in projects:
-    f.write("| [" + project["name"] + "](" + project["url"] + ") | " + project["description"] + " |\n")
+## How to add my langauge?
+- Add information about your project to `list.json` file.
+- Run `python generate_readme.py` to generate new README.md.
+- Make a pull request and just wait until I add submit it.
+
+## The List
+| Project | Description | Stars |
+| --- | --- | --- |
+"""
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(readme_template % len(projects))
+    projects.sort(key=lambda x: int(x["stars"].split("..")[0]))
+    projects.reverse()
+
+    for project in projects:
+        if project["stars"] == "10_000..":
+            project["name"] = "🔥 " + project["name"]
+        elif project["stars"] == "1_000..10_000":
+            project["name"] = "😱 " + project["name"]
+        elif project["stars"] == "400..1_000":
+            project["name"] = "😋 " + project["name"]
+        else:
+            project["name"] = "👀 " + project["name"]
+
+        f.write("| [" + project["name"] + "](" + project["url"] +
+                ") | " + project["description"] + " | `" + project["stars"] + "` |\n")
