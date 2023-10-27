@@ -140,6 +140,6 @@ Then it can be included in this list!
 | [👀 Lang](https://github.com/gsingh93/lang) | An imperative programming language written in Rust | `0..10` |
 | [👀 PopperLang](https://github.com/popper-lang/popper-lang) | Popper is an functional programming language designed to simplify the development process by providing a clear and concise syntax written in Rust | `0..10` |
 | [👀 rusch](https://github.com/twolodzko/rusch) | Minimal Scheme interpreter implemented in Rust | `0..10` |
-| [👀 Luno](https://github.com/megabytesofrem/luno) | Toy language inspired by Lua and a few other languages | `0..10` |
+| [👀 Deimos](https://github.com/megabytesofrem/deimos) | Toy language inspired by Lua and a few other languages targeting in its own VM. | `0..10` |
 | [👀 lamb](https://github.com/Carnagion/lamb) | Pure untyped lambda calculus in safe Rust. | `0..10` |
 | [👀 mindus](https://github.com/bend-n/mindus) | Library for working with Mindustry formats. | `0..10` |

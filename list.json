@@ -36,10 +36,10 @@
     "url": "https://github.com/seaofvoices/darklua"
   },
   {
-    "description": "Toy language inspired by Lua and a few other languages",
-    "name": "Luno",
+    "description": "Toy language inspired by Lua and a few other languages targeting in its own VM.",
+    "name": "Deimos",
     "stars": "0..10",
-    "url": "https://github.com/megabytesofrem/luno"
+    "url": "https://github.com/megabytesofrem/deimos"
   },
   {
     "description": "Stack-based array programming language.",
