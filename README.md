@@ -1,6 +1,6 @@
 
 # Language implementations Written in Rust
-This is a (probably incomplete) list of 126 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 127 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 
@@ -143,3 +143,4 @@ Then it can be included in this list!
 | [👀 Deimos](https://github.com/megabytesofrem/deimos) | Toy language inspired by Lua and a few other languages targeting in its own VM. | `0..10` |
 | [👀 lamb](https://github.com/Carnagion/lamb) | Pure untyped lambda calculus in safe Rust. | `0..10` |
 | [👀 mindus](https://github.com/bend-n/mindus) | Library for working with Mindustry formats. | `0..10` |
+| [👀 Mua](https://codeberg.org/elfahor/mua) | An experimental implementation of the Lua programming language | `0..10` |
