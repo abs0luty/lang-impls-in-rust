@@ -1,5 +1,11 @@
 [
   {
+    "description": "An experimental implementation of the Lua programming language",
+    "name": "Mua",
+    "stars": "0..10",
+    "url": "https://codeberg.org/elfahor/mua"
+  },
+  {
     "description": "DSL for Tinkerpop graph database",
     "name": "gremlin-rs",
     "stars": "10..40",
