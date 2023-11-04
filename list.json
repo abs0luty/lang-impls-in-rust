@@ -760,5 +760,11 @@
     "name": "ClojureRS",
     "stars": "400..1_000",
     "url": "https://github.com/Clojure-rs/ClojureRS"
+  },
+  {
+    "description": "Nexus, a modern and simple scripting language made for beginners, modding and experimentation. It provides modern language features and a powerful macro system",
+    "name": "Nexus",
+    "stars": "0..10",
+    "url": "https://github.com/Isible/nexus"
   }
 ]
