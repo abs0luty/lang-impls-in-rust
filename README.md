@@ -1,6 +1,6 @@
 
 # Language implementations Written in Rust
-This is a (probably incomplete) list of 128 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 130 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 
@@ -82,6 +82,7 @@ Then it can be included in this list!
 | [👀 Eldiro](https://github.com/arzg/eldiro) | Learn to make your own programming language with Rust | `100..400` |
 | [👀 atto](https://github.com/zesterer/atto) | An insanely simple self-hosted functional programming language | `100..400` |
 | [👀 Antimony](https://github.com/antimony-lang/antimony) | The Antimony programming language | `100..400` |
+| [👀 Moor](https://github.com/rdaum/moor) | A rewrite of the classic LambdaMOO server; but in Rust and on a modern tech stack | `100..400` |
 | [👀 ssp16asm](https://github.com/jdesiloniz/svpdev) | A collection of development tools targetting SEGA's SVP chip found in the Mega Drive/Genesis version of Virtua Racing. | `40..100` |
 | [👀 Chili](https://github.com/r0nsha/chili) | General-purpose, compiled programming language, focused on productivity, expressiveness and joy of programming | `40..100` |
 | [👀 Calypso](https://github.com/calypso-lang/calypso) | Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity. | `40..100` |
@@ -145,3 +146,4 @@ Then it can be included in this list!
 | [👀 lamb](https://github.com/Carnagion/lamb) | Pure untyped lambda calculus in safe Rust. | `0..10` |
 | [👀 mindus](https://github.com/bend-n/mindus) | Library for working with Mindustry formats. | `0..10` |
 | [👀 Mua](https://codeberg.org/elfahor/mua) | An experimental implementation of the Lua programming language | `0..10` |
+| [👀 Skylang](https://github.com/gorentbarak/skylang) | A programming language for everything | `0..10` |

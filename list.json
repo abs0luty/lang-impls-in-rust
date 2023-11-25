@@ -1,5 +1,17 @@
 [
   {
+    "description": "A rewrite of the classic LambdaMOO server; but in Rust and on a modern tech stack",
+    "name": "Moor",
+    "stars": "100..400",
+    "url": "https://github.com/rdaum/moor"
+  },
+  {
+    "description": "A programming language for everything",
+    "name": "Skylang",
+    "stars": "0..10",
+    "url": "https://github.com/gorentbarak/skylang"
+  },
+  {
     "description": "An experimental implementation of the Lua programming language",
     "name": "Mua",
     "stars": "0..10",
