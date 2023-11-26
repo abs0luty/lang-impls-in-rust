@@ -778,5 +778,11 @@
     "name": "Nexus",
     "stars": "0..10",
     "url": "https://github.com/Isible/nexus"
+  },
+  {
+    "description": "Letlang, a general purpose functional programming language with a powerful type system. Implemented in Rust, and compiles to Rust.",
+    "name": "Letlang",
+    "stars": "100..400",
+    "url": "https://github.com/linkdd/letlang"
   }
 ]

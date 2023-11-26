@@ -1,6 +1,6 @@
 
 # Language implementations Written in Rust
-This is a (probably incomplete) list of 130 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 131 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 
@@ -63,6 +63,7 @@ Then it can be included in this list!
 | [😋 Starlark](https://github.com/facebookexperimental/starlark-rust) | A Rust implementation of the Starlark language | `400..1_000` |
 | [😋 Ketos](https://github.com/murarth/ketos) | Lisp dialect scripting and extension language for Rust programs | `400..1_000` |
 | [😋 Uiua](https://github.com/uiua-lang/uiua) | Stack-based array programming language. | `400..1_000` |
+| [👀 Letlang](https://github.com/linkdd/letlang) | Letlang, a general purpose functional programming language with a powerful type system. Implemented in Rust, and compiles to Rust. | `100..400` |
 | [👀 TablaM](https://github.com/Tablam/TablaM) | The practical relational programming language for data-oriented applications | `100..400` |
 | [👀 Veryl](https://github.com/dalance/veryl) | Veryl: A Modern Hardware Description Language | `100..400` |
 | [👀 Boson](https://github.com/Narasimha1997/boson-lang) | A hybrid programming language written in Rust.  | `100..400` |
