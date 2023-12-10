@@ -147,4 +147,4 @@ Then it can be included in this list!
 | [👀 lamb](https://github.com/Carnagion/lamb) | Pure untyped lambda calculus in safe Rust. | `0..10` |
 | [👀 mindus](https://github.com/bend-n/mindus) | Library for working with Mindustry formats. | `0..10` |
 | [👀 Mua](https://codeberg.org/elfahor/mua) | An experimental implementation of the Lua programming language | `0..10` |
-| [👀 Skylang](https://github.com/gorentbarak/skylang) | A programming language for everything | `0..10` |
+| [👀 Skylang](https://git.ablecorp.us/goren/skylang) | A programming language for everything | `0..10` |

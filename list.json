@@ -9,7 +9,7 @@
     "description": "A programming language for everything",
     "name": "Skylang",
     "stars": "0..10",
-    "url": "https://github.com/gorentbarak/skylang"
+    "url": "https://git.ablecorp.us/goren/skylang"
   },
   {
     "description": "An experimental implementation of the Lua programming language",
