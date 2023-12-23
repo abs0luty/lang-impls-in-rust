@@ -1,6 +1,6 @@
 
 # Language implementations Written in Rust
-This is a (probably incomplete) list of 131 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
+This is a (probably incomplete) list of 132 languages implemented in Rust. It is intended as a source of inspiration and as a directory of potentially interesting projects in this vein.
 
 Inspired by: https://github.com/alilleybrinker/langs-in-rust.
 
@@ -121,6 +121,7 @@ Then it can be included in this list!
 | [👀 Lisp.rs](https://github.com/jsdf/lisp.rs) | Scheme Interpreter in Rust | `10..40` |
 | [👀 darklua](https://github.com/seaofvoices/darklua) | Transform Lua 5.1 and Roblox Lua scripts using rules. | `10..40` |
 | [👀 gremlin-rs](https://github.com/wolf4ood/gremlin-rs) | DSL for Tinkerpop graph database | `10..40` |
+| [👀 Stainless Script](https://github.com/JohnTheCoolingFan/stainless_script) | Stainless Script, an easily embedable and flexible visual programming language with functional programming ideology | `0..10` |
 | [👀 Nexus](https://github.com/Isible/nexus) | Nexus, a modern and simple scripting language made for beginners, modding and experimentation. It provides modern language features and a powerful macro system | `0..10` |
 | [👀 Ablescript](https://git.ablecorp.us/AbleScript/ablescript) | Designed to be bad. | `0..10` |
 | [👀 Tethys](https://github.com/ThePuzzlemaker/tethys) | A toy functional programming language with a System F-based core calculus | `0..10` |

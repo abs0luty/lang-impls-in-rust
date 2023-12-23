@@ -784,5 +784,11 @@
     "name": "Letlang",
     "stars": "100..400",
     "url": "https://github.com/linkdd/letlang"
+  },
+  {
+    "description": "Stainless Script, an easily embedable and flexible visual programming language with functional programming ideology",
+    "name": "Stainless Script",
+    "stars": "0..10",
+    "url": "https://github.com/JohnTheCoolingFan/stainless_script"
   }
 ]
